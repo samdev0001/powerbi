@@ -31,4 +31,9 @@
   - Dev
 3. Accidentely removed one report from Dev, Can i copy a report from test to dev?
   - No. (Work around is Request Admin to download PBIX file from test and publis pbix file to Dev)
+###**Clarifications 
+
+Business request: We have two different PBIX files in Power BI and we need to merge these two PBIX files into ONE SINGLE PBIX file and deploy the code into DEV.
+How should we do this PBIX files merge sir? Kindly let us know.
+
 4. 
